@@ -1,24 +1,10 @@
 # Introduction to Text Mining with Python
 
-An introduction to text mining with Python.
+An introduction to text mining with Python. See the [Wiki](https://github.com/SouthernMethodistUniversity/Text_Mining_Python/wiki) for usage details and other instructional content.
 
-## Using this notebook on ManeFrame II (M2)
+## For DHRI@SMU 2020
 
-1.  Go to [hpc.smu.edu](https://hpc.smu.edu/).
-2.  Sign in using your SMU ID and SMU password
-3.  Select "JupyterLab from the "Interactive Apps" drop-down menu.
-4.  Select options required for your JupyterLab instance. These options are the
-    same as those requested via a standard Slurm script on M2.
-5.  Beginning with the "Partition" field the values should be: "htc", 4, 1, 1,
-    0, 6.
-6.  Select "Launch" Wait for the job to start on M2. When the job starts
-    a new button "Connect to JupyterLab" button will appear.
-7.  Select "Connect to JupyterLab" The JupyterLab graphical interface will be
-    presented and running on the M2 resource requested.
-8.  From "Launcher" tab select "Terminal".
-9.  Type ``git clone
-    https://github.com/SouthernMethodistUniversity/Text_Mining_Python.git`` and
-    press "Enter"
-10. In the file browser on the left double-click "Text_Mining_Python" and then
-    double click "text_mining_python.ipynb"
+Please follow these steps in order to prepare for the session
 
+- Install Docker on [Windows](https://github.com/SouthernMethodistUniversity/Text_Mining_Python/wiki/Installing-Docker-on-Windows) or [Mac](https://github.com/SouthernMethodistUniversity/Text_Mining_Python/wiki/Installing-Docker-on-Mac-OS). Linux users please contact the Instructors or follow [these instructions](https://docs.docker.com/engine/install/ubuntu/).
+- Ensure you can get to [Jupyter running in Docker](https://github.com/SouthernMethodistUniversity/Text_Mining_Python/wiki/Setting-up-Jupyter-in-Docker)
