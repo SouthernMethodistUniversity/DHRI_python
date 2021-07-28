@@ -8,7 +8,7 @@ The associated "Introduction to HPC and M2" slides can be found [here](https://s
 2.  Sign in using your SMU ID and SMU password
 3.  Select "ManeFrame II Shell Access" from the "Clusters" drop-down menu.
 4.  In the "Shell" tab type `git clone https://github.com/SouthernMethodistUniversity/DHRI_python.git` to clone the GitHub repository.
-5.  In the same "Shell" tab type `cd text_mining_with_python` to change to repository's directory to verify that it has been clone properly. (Typing `ls` should show files that have been downloaded.)
+5.  In the same "Shell" tab type `cd DHRI_python` to change to repository's directory to verify that it has been clone properly. (Typing `ls` should show files that have been downloaded.)
 6.  In the "Dashboard" tab select "JupyterLab" from the "Interactive Apps" drop-down menu.
 7. Set the "Additional environment modules to load" field to `environment`.
 8. Set the "Custom module paths" field to `module use $HOME/DHRI_python`.
