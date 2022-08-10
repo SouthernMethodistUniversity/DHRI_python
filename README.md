@@ -1,3 +1,5 @@
+This repo has been archived. Please see the [SMU@DHRI website](https://www.smu.edu/dhri) for the most current information.    
+
 # Text Mining With Python
 
 The associated "Introduction to HPC and M2" slides can be found [here](https://smu.box.com/s/y54cbtazhe9enfaomvb8eaxoi99jq0cn).
