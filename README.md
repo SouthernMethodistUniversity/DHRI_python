@@ -1,4 +1,4 @@
-This repo has been archived. Please see the [SMU@DHRI website](https://www.smu.edu/dhri) for the most current information.    
+This repo is no longer being updated. Please see the [SMU@DHRI website](https://www.smu.edu/dhri) for the most current information.    
 
 # Text Mining With Python
 
